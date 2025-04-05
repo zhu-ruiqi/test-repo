@@ -1,0 +1,71 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.sqlite3
+
+# ===== Node.js / JavaScript =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ===== C/C++ =====
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.a
+*.log
+*.dll
+*.class
+
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+.gradle/
+build/
+
+# ===== LaTeX =====
+*.aux
+*.toc
+*.log
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.pdf
+*.nav
+*.snm
+
+# ===== VSCode / JetBrains IDEs =====
+.vscode/
+.idea/
+
+# ===== System files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Git =====
+*.orig
+*.swp
+*.swo
